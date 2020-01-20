@@ -2,6 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fb97bc-61e2-4d47-b116-220b216bebaf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/abc.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/gmap3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-countTo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-validate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-waypoints.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.bxslider.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.cookie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fancybox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.owl-filter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/kinetic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/parallax.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/particles.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/shortcodes.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/stats.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/switcher.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/tether.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +44,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="204" column="48" lean-forward="false" selection-start-line="204" selection-start-column="52" selection-end-line="206" selection-end-column="57" />
+            <state relative-caret-position="250">
+              <caret line="1015" column="49" lean-forward="false" selection-start-line="1015" selection-start-column="43" selection-end-line="1015" selection-end-column="49" />
+              <folding>
+                <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/abc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,7 +79,12 @@
     <findStrings>
       <find>ipsumi</find>
       <find>video</find>
+      <find>src</find>
+      <find>jquery</find>
     </findStrings>
+    <replaceStrings>
+      <replace>src=&quot;js/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,17 +135,6 @@
             <path>
               <item name="fnc" type="b2602c69:ProjectViewProjectNode" />
               <item name="fnc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fnc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fnc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="slides" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fnc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fnc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="stylesheet" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -122,6 +156,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/images/slides" />
     </key>
   </component>
@@ -150,18 +185,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579449406734</updated>
-      <workItem from="1579449408661" duration="3759000" />
+      <workItem from="1579449408661" duration="4771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3759000" />
+    <option name="totallyTimeSpent" value="4771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="190" y="23" width="1343" height="858" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20522675" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20522675" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -200,11 +234,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/abc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="204" column="48" lean-forward="false" selection-start-line="204" selection-start-column="52" selection-end-line="206" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="250">
+          <caret line="1015" column="49" lean-forward="false" selection-start-line="1015" selection-start-column="43" selection-end-line="1015" selection-end-column="49" />
+          <folding>
+            <element signature="n#nav#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
